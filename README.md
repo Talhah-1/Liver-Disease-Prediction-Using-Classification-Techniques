@@ -44,13 +44,13 @@ Liver-Disease-Classification-Project/
 
 ## How to Run
 
-1. Download the project folder from GitHub as a ZIP file.
+1. Download the ZIP file from GitHub, ensure that the ZIP file is saved to your "Downloads" folder
 
-2. Unzip the folder to any location on your computer.
+2. In your "Downloads" folder, extract the ZIP file in the same location.
 
 3. Launch Jupyter Lab or Jupyter Notebook.
 
-4. In Jupyter, upload the unzipped `Liver Disease Classification Project` folder.
+4. In Jupyter, navigate to the "Downloads" folder and access the "Liver-Disease-Classification-Project" then access the "Notebooks" folder, you will see 3 notebooks.
 
 5. Open and run the following notebooks from the first cell:
    - `Model_Development.ipynb` – trains and compares all main models.
