@@ -53,8 +53,8 @@ Liver-Disease-Classification-Project/
 4. In Jupyter, navigate to the "Downloads" folder and access the "Liver-Disease-Classification-Project" then access the "Notebooks" folder, you will see 3 notebooks.
 
 5. Open and run the following notebooks from the first cell:
-   - `Model_Development.ipynb` – trains and compares all main models.
-   - `Ensemble_Model_Testing.ipynb` – loads the pre-trained ensemble models and shows the evaluation results.
+   - `Model_Development.ipynb`
+   - `Ensemble_Model_Testing.ipynb`
 
 There is no need to clean the dataset. All necessary libraries are imported at the top of each notebook.
 
